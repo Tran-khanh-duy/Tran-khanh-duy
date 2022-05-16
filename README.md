@@ -15,7 +15,7 @@
 
 - 🗣️ Native Vietnamese, Intermediate English
 - In my free time, I play soccer ️⚽, guitar 🎸, street workout ✊ and learn on coursera 📖 .
-- 📫 Contact me at **kduy010209@gmail.com**
+- 📫 Contact me at **duyduy292001@gmail.com**
 
 ## 🚀 Languages and Tools
 
