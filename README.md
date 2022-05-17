@@ -7,14 +7,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me ⚽ 🎸 🚲 📖
 
 - 🧑‍🎓 I’m currently a third-year student in **[Hanoi University of Science (HUS)](http://hus.vnu.edu.vn/)**
 
-- 📖 On my way to learn web, AI and android development.
+- 📖 On my way to learn web, AI and android app development.
 
 - 🗣️ Native Vietnamese, Intermediate English
-- In my free time, I play soccer ️⚽, guitar 🎸, street workout ✊ and learn on coursera 📖 .
+
 - 📫 Contact me at **duyduy292001@gmail.com**
 
 ## 🚀 Languages and Tools
