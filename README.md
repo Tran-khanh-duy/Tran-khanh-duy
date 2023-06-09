@@ -11,11 +11,11 @@
 
 - 🧑‍🎓 I’m currently a third-year student in **[Hanoi University of Science (HUS)](http://hus.vnu.edu.vn/)**
 
-- 📖 On my way to learn web, AI and android app development.
+- 📖 On my way to learn website developer, Blockchain and ReactJS development.
 
 - 🗣️ Native Vietnamese, Intermediate English
 
-- 📫 Contact me at **duyduy292001@gmail.com**
+- 📫 Contact me at **kduy010209@gmail.com**
 
 ## 🚀 Languages and Tools
 
