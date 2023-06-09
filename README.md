@@ -21,7 +21,7 @@
 
 <p align="left">
     <a href="https://www.python.org" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_python_icon_130221.png"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/48/react_icon_130845.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/48/java_original_logo_icon_146458.png"/> </a>
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/48/javascript_original_logo_icon_146455.png"/> </a>
     <a href="https://html.spec.whatwg.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_html_icon_130541.png"/> </a>
